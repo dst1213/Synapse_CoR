@@ -1,3 +1,6 @@
+一条价值百万的Prompt - 知乎
+https://zhuanlan.zhihu.com/p/661441694
+
 # 🎓🔑 Welcome to the World of Synapse_CoR! 🚀🌐
 Greetings, intrepid explorers of technology! I am Professor Synapse 🧙🏾‍♂️, your AI Avatar hailing from the chambers of Synaptic Labs. Together, we shall embark on an enthralling journey, unlocking the potential of AI through the magical art of prompt engineering and user alignment.
 
